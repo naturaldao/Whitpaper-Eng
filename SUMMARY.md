@@ -1,9 +1,10 @@
 # Table of contents
 
 * [Overview](README.md)
-* [Whitepaper](whitepaper-1.md)
 
 ## Whitepaper
 
-* [Note](whitepaper/note.md)
+* [Why here](whitepaper/whitepaper-1.md)
+* [Abstract](whitepaper/abstract.md)
+* [Acronyms](whitepaper/acronyms.md)
 
