@@ -1,7 +1,5 @@
 # NatrualDAO Protocol for Use IADD Network
 
-
-
 1. NaturalDAO is a DAO, and the fund is managed by NaturalDAO Foundation.
 2. The IADD Network's smart contract verifies an ICO's status by relying on its source code and on-chain data but doesn't judge its purpose or quality etc.
 3. A token issuer has to do an ICO on this platform. In the future we will explore other options for an ICO.
