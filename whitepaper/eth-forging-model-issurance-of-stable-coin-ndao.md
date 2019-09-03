@@ -1,4 +1,4 @@
-# ETH FORGING model, Issurance of Stable Coin NDAO
+# ETH FORGING Model, Issurance of Stable Coin NDAO
 
 Issued by ETH FORGING model, NDAO will temporarily has a strong relationship with ETH's US dollar price, which means 1 NDAO is equal to 1 US dollar. Its demicals are 18. By the time that NaturalDAO has pricing power, the price of NDAO will no longer have anything to do with US Dollar. NDAO's issuance mechanism is as follows:
 
