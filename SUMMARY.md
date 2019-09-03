@@ -4,7 +4,7 @@
 
 ## Whitepaper
 
-* [Why Here](whitepaper/whitepaper-1.md)
+* [Why Here](whitepaper/why.md)
 * [Abstract](whitepaper/abstract.md)
 * [Acronyms](whitepaper/acronyms.md)
 * [ETH FORGING Model, Issurance of Stable Coin NDAO](whitepaper/eth-forging-model-issurance-of-stable-coin-ndao.md)
