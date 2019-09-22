@@ -1,8 +1,10 @@
-# Acronyms
+# 2. Acronyms
 
 DEX——Decentralized Exchange.
 
-Improved CPMM——Constant Product Market Maker is a model of market maker and generates token pricing in a non-linear way. CPMM is used by Uniswap, and we have imporved it.
+ICPMM——Improved CPMM. Constant Product Market Maker is a model of market maker and generates token pricing in a non-linear way. CPMM is used by Uniswap, and we have imporved it.
+
+RICPMM——Reverse Improved CPMM algorithm.
 
 NSC——NaturalDAO Smart Contract. It is a set of smart contracts which work similar to Bancor and establish a decentralized exchange protocol for ERC20 tokens.
 

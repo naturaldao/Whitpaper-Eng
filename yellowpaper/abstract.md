@@ -1,4 +1,4 @@
-# Abstract
+# 1. Abstract
 
 "Natrural DAO" is a philosophical thought from the Tao Te Ching, meaning that the law reflected in everything is "Mother Natural". NaturalDAO is runing based on decentralized rules. It deploys a DEX network and a payment network for Ethereum's economy based on the rules of the decentralized market itself and the control of smart contracts and algorithms.
 
@@ -26,7 +26,7 @@ This way a token issuer no longer relies on a single entity to provide liquidity
 
 The stable coin NDAO is issued by NaturalDAO utilizing a decentralized and decensored mechanism. NDAO's price on NaturalDAO or decentralized markets is absolutely stable. Therefore adoption of NDAO has big potentials to turn blockchain technologies into real popular applications.
 
-After deploying the DEX network\(IADD Network\) and the stable coin NDAO, NaturalDAO can be perfectly applied to all payment needs in the blockchain. NaturalDAO will become the payment network of Ethereum!
+After deploying the DEX network\(IADD Network\) and the decentralized stable coin NDAO and several specific smart contracts, NaturalDAO can be perfectly applied to all payment needs in the blockchain. NaturalDAO will become a decentralized payment network of Ethereum!
 
- My twitter: [https://twitter.com/Derek\_Joe\_China](https://twitter.com/Derek_Joe_China)
+In summary, NaturalDAO is a network of decentralized exchange and decentralized payments  , which is automatically deployed.
 
