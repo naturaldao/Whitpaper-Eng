@@ -28,3 +28,5 @@ The stable coin NDAO is issued by NaturalDAO utilizing a decentralized and decen
 
 After deploying the DEX network\(IADD Network\) and the stable coin NDAO, NaturalDAO can be perfectly applied to all payment needs in the blockchain. NaturalDAO will become the payment network of Ethereum!
 
+ My twitter: [https://twitter.com/Derek\_Joe\_China](https://twitter.com/Derek_Joe_China)
+
