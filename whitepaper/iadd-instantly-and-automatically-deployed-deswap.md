@@ -1,5 +1,11 @@
 # 4. IADD：Instantly and Automatically Deployed Deswap
 
+Right after a token's ICO succeeds, a decentralized exchange network i.e. the IADS Network will be initiated, and meanwhile, a payment network is ready as well. But, wait for a minute, please.
+
+NaturalDAO's decentralized and censorship-resistant mechanism creates a decentralized benchmark token\(stable coin\) NDAO with constant intrinsic value. NDAO is controlled by algorithm and smart contract, means its price is absolutely stable in the decentralized markets, including the investment market \(exchange\) and the consumer market\(payment\). This is the first time we make a stable coin that its price is really stalbe in the decentralized markets. Circulation of this stable coin can greatly push forward application of blockchain technologies in business and economy.
+
+Thus in the IADD Network \(Instantly and Automatically Deployed  Deswap Network\) the benchmark token NDAO will be in circulation and it will eventually be adpoted in non-investment markets and people's daily life such as retail etc. This will provide a revolutionary solution for application of blockchain technologies in business and economy.  
+
 1. Trading Market That Reflects Real Demand: when a token issuer initiates an ICO on this platform, right after the ICO succeeds his smart contract issues an additional amount of its token, equivalent to the amount for the ICO \(i.e. the total issued token amount will be twice the amount used to raise fund during the ICO period\). These additonally issued tokens will be transferred to the NSC contract's address and be used as a reserve for establishing a trading pair with NDAO. After the NSC contract receives these tokens, Imporved CPMM works and its DEX would be ready simultaneously.
 
    A common issue that both Bancor and Uniswap face is that there are insufficient tokens in their reserves. This leverages price vibration and results in relatively large price fluctuations when trading volumes go slightly higher. Our solution injects an ICO's full token amount into the decentralized exchange and reflects the market's real demand. Only based on this liquidity will a token's pricing be rational and reasonable.

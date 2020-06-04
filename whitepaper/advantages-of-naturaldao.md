@@ -1,4 +1,4 @@
-# 7. Advantages of NaturalDAO
+# 7. Advantages of DAism
 
 1. Instant Deployment
 
