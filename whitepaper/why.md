@@ -2,9 +2,9 @@
 description: Why put a yellow paper here.
 ---
 
-# 0. White Paper
+# 8. Storiette
 
-Author: Derek Zhou, Zhanghua, Yuefei  
+Author: Derek Zhou, Yuefei, Zhao Li  
 Twitter: [https://twitter.com/Derek\_Joe\_China](https://twitter.com/Derek_Joe_China)  
 Proofed by : Yuefei Tan
 
