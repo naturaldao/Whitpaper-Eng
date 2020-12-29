@@ -4,7 +4,3 @@
 
 DAism is running by [NaturalDAO](/www.naturaldao.io), which is targeted to be a real DAO.
 
-
-
-Please keep waiting for a while, we'll finish the modification in June.
-
