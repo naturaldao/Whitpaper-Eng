@@ -1,6 +1,11 @@
 # Overview
 
-**DAism** is a platform for creation and development of DAO.  It completely eliminates human interference, and is run and managed by smart contracts. 
+**DAism** is a platform for creation and development of DAO(2.0).  It completely eliminates human interference, and is run and managed by smart contracts.&#x20;
 
-DAism is running by [NaturalDAO](/www.naturaldao.io), which is targeted to be a real DAO.
+{% embed url="http://www.daism.io" %}
+DAism, the plateform
+{% endembed %}
 
+DAism is running by [NaturalDAO](https://app.gitbook.com/www.naturaldao.io), which is targeted to be a real DAO(1.0).
+
+Discord: [https://discord.gg/ByKZgweB](https://discord.gg/ByKZgweB)

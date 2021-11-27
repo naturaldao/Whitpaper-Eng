@@ -2,9 +2,9 @@
 
 * [Overview](README.md)
 
-## White Paper <a id="whitepaper"></a>
+## White Paper <a href="whitepaper" id="whitepaper"></a>
 
-* [1. Abstract](whitepaper/abstract.md)
+* [1. Introduction](whitepaper/abstract.md)
 * [2. Acronyms](whitepaper/acronyms.md)
 * [3. Issurance of Decentralized Benchmark Token](whitepaper/eth-forging-model-issurance-of-stable-coin-ndao.md)
 * [4. IADD：Instantly and Automatically Deployed Deswap](whitepaper/iadd-instantly-and-automatically-deployed-deswap.md)
@@ -12,4 +12,3 @@
 * [6. NatrualDAO Protocol](whitepaper/natrualdao-protocol-for-use-iadd-network.md)
 * [7. Advantages of DAism](whitepaper/advantages-of-naturaldao.md)
 * [8. Storiette](whitepaper/why.md)
-
