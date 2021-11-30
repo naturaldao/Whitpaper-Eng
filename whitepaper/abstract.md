@@ -132,7 +132,7 @@ We propose to redefine DAO as Decentralized Autonomous Organism.
 
 "Decentralized Autonomous Organism" means:
 
-1\.     DAO = Token + Consensus + Smart Contracts + Smart Algorithms\
+1\.     DAO = Consensus + Token + Smart Contracts + Smart Algorithms\
 Every Decentralized Autonomous Organism needs to be intelligent. We need intelligent algorithms and need to eliminate human beings' manipulation.
 
 2\.     Governance Minimum and Credible Neutrality\
