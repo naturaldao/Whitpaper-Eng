@@ -1,6 +1,6 @@
 # Overview
 
-**DAism** is a platform for creation and development of DAO(2.0).  It completely eliminates human interference, and is run and managed by protocols and network.&#x20;
+**DAism** is a public platform for creation and development of DAO(2.0).  It completely eliminates human interference, and is run and managed by protocols and network constructed by smart contracts.&#x20;
 
 {% embed url="http://www.daism.io" %}
 DAism, the plateform
