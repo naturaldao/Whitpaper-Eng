@@ -1,14 +1,14 @@
-# 2. Acronyms
+# 2. Architecture
 
-DEX——Decentralized Exchange.
+## Introduction
 
-ICPMM——Improved CPMM. Constant Product Market Maker is a model of market maker and generates token pricing in a non-linear way. CPMM is used by Uniswap, and we have imporved it.
+Hierarchically DAism has three parts:
 
-RICPMM——Reverse Improved CPMM algorithm.
+* DAism Framework
+* DAism Bazaar
+* DAOs
 
-NSC——NaturalDAO Smart Contract. It is a set of smart contracts which work similar to Bancor and establish a decentralized exchange protocol for ERC20 tokens.
+DAism is a platform which consists of a framework (DAism Framework), an open module store (DAism Store) and DAOs any one can create.
 
-NDAO——It is a stable coin issued by ETH forging model. It is by far the only one that will be absolutely stable in the decentralized market.
-
-IADD Network——Instantly and Automatically Deployed DeSwap Network. A decentralized swap network that is instantly and automatically deployed.
+The DAism Store is an open-source application market similar to Google Play. That is to say any person or Organism can permissionlessly use the modules to contruct a DAO.
 
