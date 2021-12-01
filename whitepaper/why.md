@@ -2,15 +2,13 @@
 description: Why put a yellow paper here.
 ---
 
-# 8. Storiette
+# 8. DAism Store
 
-Author: Derek Zhou, Yuefei, Zhao Li  
-Twitter: [https://twitter.com/Derek\_Joe\_China](https://twitter.com/Derek_Joe_China)  
-Proofed by : Yuefei Tan
+Any one can develop DApps or modules for DAism Store. This Store is pretty much like Google Play.
 
-There are some brand new concepts and beliefs in DAism. We think it is necessary to let people understand these as a starter, expecially when many people even distrust ethereum and today Bitcoin's Dominance is as high as 70.4% of the total blockchain market, while Ethereum's market cap is almost only 1/10 of Bitcoin's. 
-
-![Coinmarketcap, Sep 04, 2019\(Hongkong\)](../.gitbook/assets/image.png)
-
-
-
+1. It consists of various DApps
+2. DAO's any operation such as management of reputation(management of voting), management of tasks, management of whitelists or management of blacklists etc can be implemented by DApps developed third parties. That is to say any member or organism can develop and deploy DApps which can be used either for free or paid.
+3. DApps are plug and play.
+4. DApps are upgradable.
+5. DApps are revokable.
+6. A DApp can be an AI driven entity or a big data engine.
