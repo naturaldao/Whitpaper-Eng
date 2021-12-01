@@ -5,7 +5,7 @@
 Hierarchically DAism has three parts:
 
 * DAism Framework
-* DAism Bazaar
+* DAism Store
 * DAOs
 
 DAism is a platform which consists of a framework (DAism Framework), an open module store (DAism Store) and DAOs any one can create.
