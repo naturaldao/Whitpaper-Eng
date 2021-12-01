@@ -11,3 +11,4 @@
 * [5. IADD Network](whitepaper/5.-iadd-network.md)
 * [3. Issurance of Decentralized Benchmark Token](whitepaper/eth-forging-model-issurance-of-stable-coin-ndao.md)
 * [6. DAism Store](whitepaper/why.md)
+* [7. Features of DAism](whitepaper/7.-features-of-daism.md)

@@ -12,3 +12,15 @@ Any one can develop DApps or modules for DAism Store. This Store is pretty much 
 4. DApps are upgradable.
 5. DApps are revokable.
 6. A DApp can be an AI driven entity or a big data engine.
+
+## Gods of Honor (Demostration)
+
+This is a module that can be used by DAO members to manage their own accounts
+
+* to list of DAOs that a member joins,
+* to inquiry of tokens, reputation, honor, participated tasks, and
+* to reject increase in reputation value or freeze reputation value
+* to exit a DAO
+
+
+
