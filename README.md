@@ -6,7 +6,7 @@
 DAism, the plateform
 {% endembed %}
 
-[NaturalDAO](https://app.gitbook.com/www.naturaldao.io) is a team to develop DAism, the public plateform:
+[NaturalDAO](https://app.gitbook.com/www.naturaldao.io) is an open development team of DAism, the public plateform:
 
 {% embed url="https://www.naturaldao.io" %}
 NaturalDAO, the core team of development
