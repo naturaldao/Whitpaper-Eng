@@ -92,7 +92,7 @@ Although I don't think Bancor is perfect, the above two features Bancor brought 
 
 Bancor's implementation shows that smart contract implemented intelligent algorithms have created a revolutionary mechanism. Doesn't this give us huge inspirations?
 
-### 5.    Conclusion: Time to Redefine DAO
+### 5.    Conclusion: Time to define DAO 2.0
 
 Hence we come to know:
 
@@ -128,9 +128,9 @@ On November 28 2020, Fred Ehrsam, co-founder of Coinbase and Paradigm, and Dan R
 
 Do we still remember a frequently discussed topic about Bitcoin's features in its early years---"Trustless"? Essentially only when a system or a dApp is credibly neutural can it be trustless! Therefore, no matter how decentralized a project's governance seems if it lacks credible neuturality the project can hardly survive in the long term in a blockchain ecosystem. The only way to credible neuturality is minimization of governance like what Bancor has accomplished by implementing a price-discovery mechanism with smart contracts and algorithms.
 
-We propose to define DAO 2.0 as Decentralized Autonomous Organism.
+**We propose to define DAO 2.0 as Decentralized Autonomous Organism.**
 
-"Decentralized Autonomous Organism" means:
+**"Decentralized Autonomous Organism" means:**
 
 1. DAO = Consensus + Token + Smart Contracts + Smart Algorithms\
    Every Decentralized Autonomous Organism needs to be intelligent. We need intelligent algorithms and need to eliminate human beings' manipulation.
@@ -144,3 +144,7 @@ We propose to define DAO 2.0 as Decentralized Autonomous Organism.
 Considering the rapid development of AI, DAO may keep evolving, growing and moving forward by adopting more and more AI in the future. Along with DAO's development it will always be alert to and prevent bug from being brought in by human beings.
 
 Today it is time to re-examine our outdated understanding of DAO, redefine its essentials and move forward with a completely new thinking.
+
+## Eclectic DAism
+
+We are not against DAO 1.0, we think DAO 1.0 can be the off-chain part of a DAO, while its 2.0 part is on-chain. On DAism, DAO can be anyone, any organization, and any agent. And a DAO can develop some dApp(s), or just freely combine any dApps, or do things more complicated.
