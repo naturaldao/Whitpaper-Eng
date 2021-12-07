@@ -1,9 +1,9 @@
 # 1. Introduction
 
 \
-Based on DAO 2.0, DAism aims to be a platform that gives birth to, provides resources to, and motivates contributions to DAOs.
+Based on DAO (both 1.0 and 2.0), DAism aims to be a platform that gives birth to, provides resources to, and motivates contributions to DAOs.
 
-Anyone can create a decentralized autonomous organism (abbreviated as "DAO") on DAism within several minutes and this DAO will be ready for operation right away. &#x20;
+Anyone can create a DAO on DAism within several minutes and this DAO will be ready for operation right away. &#x20;
 
 DAism has dedicated primitives for a DAO's creation and development: a scalable framework and an open DApp market. Within its framework it has various in-built protocols and networks which will provide universal standards and core functions for decentralized token issurance, decentralized exchanges, decentralized payment systems, decentralized honor tokens, decentralized autonomous fund protocol etc.
 
@@ -13,7 +13,7 @@ Blockchain originated from Bitcoin's consensus mechanism and token technologies.
 
 (Quoted from <\<Introduction to Blockchain>> textbook for a blockchain course in Shenzhen University:[https://u.naturaldao.io/be/](https://u.naturaldao.io/be/))
 
-## Brief History of Blockchain DAO
+## Brief History of Blockchain DAO 1.0
 
 The concept of Blockchain's DAO might date back to the term "Decentralized Organized Company"\[1] coined by Daniel Larimer on September 7, 2013. Soon after that this term was revised to "Decentralized Autonomous Corporation" abbreviated as "DAC". Thirteen days later, Vitalik Buterin published an article\[2] detailing his thoughts on DAC. On May 6, 2014, Vitalik published another article titled "DAOs, DACs, DAs and More: An Incomplete Terminology Guide" in which he was the first in the blockchain industry to point out that after DAO was initiated it would possibly be designed to run free from external control, but under predefined rules\[3].
 
