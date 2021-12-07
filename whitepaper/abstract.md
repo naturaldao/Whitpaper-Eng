@@ -128,19 +128,17 @@ On November 28 2020, Fred Ehrsam, co-founder of Coinbase and Paradigm, and Dan R
 
 Do we still remember a frequently discussed topic about Bitcoin's features in its early years---"Trustless"? Essentially only when a system or a dApp is credibly neutural can it be trustless! Therefore, no matter how decentralized a project's governance seems if it lacks credible neuturality the project can hardly survive in the long term in a blockchain ecosystem. The only way to credible neuturality is minimization of governance like what Bancor has accomplished by implementing a price-discovery mechanism with smart contracts and algorithms.
 
-We propose to redefine DAO as Decentralized Autonomous Organism.
+We propose to define DAO 2.0 as Decentralized Autonomous Organism.
 
 "Decentralized Autonomous Organism" means:
 
-1\.     DAO = Consensus + Token + Smart Contracts + Smart Algorithms\
-Every Decentralized Autonomous Organism needs to be intelligent. We need intelligent algorithms and need to eliminate human beings' manipulation.
-
-2\.     Governance Minimum and Credible Neutrality\
-Bancor has proven that intelligent algorithms are a solution to both.
-
-3\.  No Decentralized Autonomous Organisms will be isolated. Every DAO will be able to interact with one another intelligently. Every DAO can send service requests to other DAOs, and can digest replied data (by absorbing nutrients and eliminating wastes) and enjoy offered services. Therefore a DAO's behavior(e.g. changes of the stability fee in MakerDAO) cannot be changed at will by human beings such that a DAO can maintain stable and user-friendly interfaces and behavior to its users and smart contracts that interact with it.
-
-4\.  A DAO has its own life span. It may die abnormally (from being attacked by hackers or being hurt by malicious DAOs). After an existing DAO dies, another existing or a newly generated DAO will take over its role and continue its course.
+1. DAO = Consensus + Token + Smart Contracts + Smart Algorithms\
+   Every Decentralized Autonomous Organism needs to be intelligent. We need intelligent algorithms and need to eliminate human beings' manipulation.
+2. Governance Minimum and Credible Neutrality\
+   Bancor has proven that intelligent algorithms are a solution to both.
+3. No Decentralized Autonomous Organisms will be isolated. Every DAO will be able to interact with one another intelligently. Every DAO can send service requests to other DAOs, and can digest replied data (by absorbing nutrients and eliminating wastes) and enjoy offered services. Therefore a DAO's behavior(e.g. changes of the stability fee in MakerDAO) cannot be changed at will by human beings such that a DAO can maintain stable and user-friendly interfaces and behavior to its users and smart contracts that interact with it.
+4. A DAO has its own life span. It may die abnormally (from being attacked by hackers or being hurt by malicious DAOs). After an existing DAO dies, another existing or a newly generated DAO will take over its role and continue its course.
+5. We are not against DAO 1.0, we think DAO 1.0 can be used as an extension of the off-chain part of DAO 2.0.
 
 Considering the rapid development of AI, DAO may keep evolving, growing and moving forward by adopting more and more AI in the future. Along with DAO's development it will always be alert to and prevent bug from being brought in by human beings.
 
