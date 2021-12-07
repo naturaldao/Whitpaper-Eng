@@ -147,4 +147,6 @@ Today it is time to re-examine our outdated understanding of DAO, redefine its e
 
 ## Eclectic DAism
 
-We are not against DAO 1.0, we think DAO 1.0 can be the off-chain part of a DAO, while its 2.0 part is on-chain. On DAism, DAO can be anyone, any organization, and any agent. And a DAO can develop some dApp(s), or just freely combine any dApps, or do things more complicated.
+We are not against DAO 1.0, we think DAO 1.0 can be the off-chain part of a DAO, while its 2.0 core is on-chain.
+
+On DAism, a DAO can be anyone, any organization, and any organism. A DAO can develop some dApp(s), or just freely combine any dApps, or do things more complicated.
