@@ -138,7 +138,8 @@ We propose to define DAO 2.0 as Decentralized Autonomous Organism.
    Bancor has proven that intelligent algorithms are a solution to both.
 3. No Decentralized Autonomous Organisms will be isolated. Every DAO will be able to interact with one another intelligently. Every DAO can send service requests to other DAOs, and can digest replied data (by absorbing nutrients and eliminating wastes) and enjoy offered services. Therefore a DAO's behavior(e.g. changes of the stability fee in MakerDAO) cannot be changed at will by human beings such that a DAO can maintain stable and user-friendly interfaces and behavior to its users and smart contracts that interact with it.
 4. A DAO has its own life span. It may die abnormally (from being attacked by hackers or being hurt by malicious DAOs). After an existing DAO dies, another existing or a newly generated DAO will take over its role and continue its course.
-5. We are not against DAO 1.0, we think DAO 1.0 can be used as an extension of the off-chain part of DAO 2.0. Any person or organization or organism can permissionlessly use the dApps(no matter who developed them) to construct a DAO.
+5. We are not against DAO 1.0, we think DAO 1.0 can be used as an extension of the off-chain part of DAO 2.0.
+6. Any person or organization or organism can permissionlessly use the dApps(no matter who developed them) to construct a DAO.
 
 Considering the rapid development of AI, DAO may keep evolving, growing and moving forward by adopting more and more AI in the future. Along with DAO's development it will always be alert to and prevent bug from being brought in by human beings.
 
