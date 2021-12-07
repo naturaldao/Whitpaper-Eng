@@ -8,7 +8,7 @@ Hierarchically DAism has three parts:
 * DAism Store
 * DAOs
 
-DAism is a platform which consists of a framework (DAism Framework), an open module store (DAism Store) and DAOs any one can create.
+DAism is a platform which consists of a framework (DAism Framework), a dApp store (DAism Store) and DAOs any one can create.
 
-The DAism Store is an open-source application market similar to Google Play. That is to say any person or Organism can permissionlessly use the modules to contruct a DAO.
+The DAism Store is a dApp market similar to Google Play. That is to say any person or Organism can permissionlessly use the dApps to contruct a DAO.
 
