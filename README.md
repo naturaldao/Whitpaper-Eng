@@ -12,4 +12,4 @@ DAism, the plateform
 NaturalDAO, the core team of development
 {% endembed %}
 
-Discord: [https://discord.gg/ByKZgweB](https://discord.gg/ByKZgweB)
+Discord: [https://discord.gg/mymgps3srU](https://discord.gg/mymgps3srU)
