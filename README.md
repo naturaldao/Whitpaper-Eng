@@ -12,4 +12,8 @@ DAism, the plateform
 NaturalDAO, the core team of development
 {% endembed %}
 
+Website: [daism.io](https://daism.io)
+
+DAism Community：[daotodon.me](https://daotodon.me)
+
 Discord: [https://discord.gg/mymgps3srU](https://discord.gg/mymgps3srU)
