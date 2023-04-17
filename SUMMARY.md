@@ -8,5 +8,4 @@
 * [3. DAism Framework](whitepaper/3.-daism-framework.md)
 * [4. DAism Protocols](whitepaper/4.-daism-protocols.md)
 * [5. IADD Network](whitepaper/5.-iadd-network.md)
-* [6. DAism Store](whitepaper/why.md)
-* [7. Features of DAism](whitepaper/7.-features-of-daism.md)
+* [6. Features of DAism](whitepaper/6.-features-of-daism.md)
