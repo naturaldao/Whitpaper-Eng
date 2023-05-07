@@ -1,17 +1,17 @@
 # 1. Introduction
 
 \
-Based on DAO (both 1.0 and 2.0), DAism aims to be a platform that gives birth to, provides resources to, and motivates contributions to DAOs.
+Based on DAO (both 1.0 and 2.0), DAism aims to be a platform that  births, provides resources for, and motivates contributions to DAOs.
 
-Anyone can create a DAO on DAism within several minutes and this DAO will be ready for operation right away. &#x20;
+Anyone can create a DAO on DAism within minutes, and the DAO will be ready for operation immediately.&#x20;
 
-DAism has dedicated primitives for a DAO's creation and development: a scalable framework and an open DApp market. Within its framework it has various in-built protocols and networks which will provide universal standards and core functions for decentralized token issurance, decentralized exchanges, decentralized payment systems, decentralized honor tokens, decentralized autonomous fund protocol etc.
+DAism has dedicated primitives for DAO's creation and development: a scalable framework and an open DApp market. Within its framework, it has various built-in protocols and networks that provide universal standards and core functions for decentralized token issuance, decentralized exchanges, decentralized payment systems, decentralized honor tokens, decentralized autonomous fund protocol, etc.
 
 ## Blockchain
 
 Blockchain originated from Bitcoin's consensus mechanism and token technologies. A permissionless blockchain is a decentralized supercomputer which has an execution environment for smart contracts. It is also a distributed real-time database that grows infinitely by recording transactions, smart contract code, system states and data ever since its genesis block. Blockchain is the next generation of the internet, which achieves decentralization, censorship-resistance and trustlessness by incentivizing participation, securing system, securing data ownership, adopting onchain governance and establishing economic autonomy based on consensus mechanisms, tokens, smart contracts etc. Blockchain applications will eventually flourish with DApps and DAOs. Its ultimate goal is to evolve the existing internet from an information based internet to a value based internet and form a globally frictionless cooperation platform that tremendously improves efficiency for cooperations. &#x20;
 
-(Quoted from <\<Introduction to Blockchain>> textbook for a blockchain course in Shenzhen University:[https://u.naturaldao.io/be/](https://u.naturaldao.io/be/))
+(Quoted from "_Introduction to Blockchain_" textbook for a blockchain course at Shenzhen University:[https://u.naturaldao.io/be/](https://u.naturaldao.io/be/))
 
 ## Brief History of Blockchain DAO 1.0
 
