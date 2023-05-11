@@ -5,7 +5,7 @@ Based on DAO (both 1.0 and 2.0), DAism aims to be a platform that  births, provi
 
 Anyone can create a DAO on DAism within minutes, and the DAO will be ready for operation immediately.&#x20;
 
-DAism has dedicated primitives for DAO's creation and development: a scalable framework and an open DApp market. Within its framework, it has various built-in protocols and networks that provide universal standards and core functions for decentralized token issuance, decentralized exchanges, decentralized payment systems, decentralized honor tokens, decentralized autonomous fund protocol, etc.
+DAism has dedicated primitives for DAO's creation and development: a scalable framework and an open DApp market. Within each framework, it has various built-in protocols and networks that provide universal standards and core functions for decentralized token issuance, decentralized exchanges, decentralized payment systems, decentralized honor tokens, decentralized autonomous fund protocol, etc.
 
 ## Blockchain
 

@@ -17,3 +17,5 @@ Website: [daism.io](https://daism.io)
 DAism Community：[daotodon.me](https://daotodon.me)
 
 Discord: [https://discord.gg/mymgps3srU](https://discord.gg/mymgps3srU)
+
+Telegram: [t.me/+ypbjPqbiBiBlN2Nl](https://t.me/+ypbjPqbiBiBlN2Nl)
