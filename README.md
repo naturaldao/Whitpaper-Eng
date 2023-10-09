@@ -1,6 +1,6 @@
 ---
 description: >-
-  DAism is a public governance layer for Tokenomics and brings a new value
+  DAism is a public governance layer for Tokenomics and it brings a new value
   system to DAO's governance. Ultimately DAism providing a solid foundation for
   the development of Tokenmoics and dApps.
 ---
