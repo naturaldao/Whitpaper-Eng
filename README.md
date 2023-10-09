@@ -1,12 +1,21 @@
+---
+description: >-
+  DAism will introduce a variety of public governance strategies encompassing
+  decentralized trading and universal payments for the tokenomics. This will
+  also bring a completely new value system to DAO g
+---
+
 # Overview
 
-**DAism** is a public platform for the creation and development of DAO.  It completely eliminates human interference, and is run and managed by protocols and network constructed by smart contracts.&#x20;
+**DAism** is a public governance layer for Tokenomics and DAOs' value systems. This means that DAism serves as a public governance layer that enables the proliferation of DAOs and dApps, fostering the flourishing growth of Tokenomics.&#x20;
+
+DAism is set to lead us into the exciting era of the metaverse components!
 
 {% embed url="http://www.daism.io" %}
 DAism, the plateform
 {% endembed %}
 
-[NaturalDAO](https://app.gitbook.com/www.naturaldao.io) is an open development team of DAism, the public plateform:
+[NaturalDAO](https://app.gitbook.com/www.naturaldao.io) is the core development team behind DAism, with its initial member being Derek Zhou, Yuefei Tan, Elon Lee, Hua zhang, Queena Tong:
 
 {% embed url="https://www.naturaldao.io" %}
 NaturalDAO, the core team of development
