@@ -1,13 +1,13 @@
 ---
 description: >-
-  DAism will introduce a variety of public governance strategies encompassing
-  decentralized trading and universal payments for the tokenomics. This will
-  also bring a completely new value system to DAO g
+  DAism is a public governance layer for Tokenomics and brings a new value
+  system to DAO's governance. Ultimately DAism providing a solid foundation for
+  the development of Tokenmoics and dApps.
 ---
 
 # Overview
 
-**DAism** is a public governance layer for Tokenomics and DAOs' value systems. This means that DAism serves as a public governance layer that enables the proliferation of DAOs and dApps, fostering the flourishing growth of Tokenomics.&#x20;
+**DAism** is a public governance layer of Tokenomics and DAOs' value systems. This means that DAism serves as a public governance layer that enables the proliferation of DAOs and dApps, fostering the flourishing growth of Tokenomics.&#x20;
 
 DAism is set to lead us into the exciting era of the metaverse components!
 
