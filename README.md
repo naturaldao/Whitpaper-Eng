@@ -7,6 +7,10 @@ description: >-
 
 # Overview
 
+**DAism Whitepaper needs a big upgrade, and this work might be delayed for a long time. We suggest you to view our** [**YouTube Channel**](https://www.youtube.com/@daismcore8822) **and** [**Gamma Docks**](https://gamma.app/public/DAism1-An-Exchange-Good-Tokenomics-Needs-cp0hifw89174aw1) **as an alternative way.**
+
+
+
 **DAism** is a public governance layer of Tokenomics and DAOs' value systems. This means that DAism serves as a public governance layer that enables the proliferation of DAOs and dApps, fostering the flourishing growth of Tokenomics.&#x20;
 
 DAism is set to lead us into the exciting era of the metaverse components!
