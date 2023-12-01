@@ -1,19 +1,18 @@
 ---
-description: >-
-  DAism is a public governance layer for Tokenomics and it brings a new value
-  system to DAO's governance. Ultimately DAism providing a solid foundation for
-  the development of Tokenmoics and dApps.
+description: This is DAism's Whitepaper V2.
 ---
 
-# Overview
+# Preface
 
 **DAism Whitepaper needs a big upgrade, and this work might be delayed for a long time. We suggest you to view our** [**YouTube Channel**](https://www.youtube.com/@daismcore8822) **and** [**Gamma Docks**](https://gamma.app/public/DAism1-An-Exchange-Good-Tokenomics-Needs-cp0hifw89174aw1) **as an alternative way.**
 
 
 
-**DAism** is a public governance layer of Tokenomics and DAOs' value systems. This means that DAism serves as a public governance layer that enables the proliferation of DAOs and dApps, fostering the flourishing growth of Tokenomics.&#x20;
+**DAism** is a public governance layer of Tokenomics and DAOs' value systems.&#x20;
 
-DAism is set to lead us into the exciting era of the metaverse components!
+DAism inherits the governance principles from Bitcoin's proof-of-work and Ethereum's proof-of-stake. The original governance consensus introduced by DAism is known as Proof of Value (PoV).
+
+This means that DAism serves as a public governance layer that enables the proliferation of DAOs and dApps, fostering the flourishing growth of Tokenomics.&#x20;
 
 {% embed url="http://www.daism.io" %}
 DAism, the plateform
@@ -27,8 +26,4 @@ NaturalDAO, the core team of development
 
 Website: [daism.io](https://daism.io)
 
-DAism Community：[daotodon.me](https://daotodon.me)
-
 Discord: [https://discord.gg/mymgps3srU](https://discord.gg/mymgps3srU)
-
-Telegram: [t.me/+ypbjPqbiBiBlN2Nl](https://t.me/+ypbjPqbiBiBlN2Nl)
