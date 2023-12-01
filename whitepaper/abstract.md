@@ -1,118 +1,59 @@
+---
+description: >-
+  DAism inherits the governance principles from Bitcoin's proof-of-work and
+  Ethereum's proof-of-stake. The original governance consensus introduced by
+  DAism is known as Proof of Value (PoV).
+---
+
 # 1. Introduction
 
-\
-Based on DAO (both 1.0 and 2.0), DAism aims to be a platform that  births, provides resources for, and motivates contributions to DAOs.
+## What is DAism?
 
-Anyone can create a DAO on DAism within minutes, and the DAO will be ready for operation immediately.&#x20;
+DAism, or Dao Yi Cheng, is the public governance layer of the token economy and DAO (Decentralized Autonomous Organization) value system on the Ethereum blockchain.
 
-DAism has dedicated primitives for DAO's creation and development: a scalable framework and an open DApp market. Within each framework, it has various built-in protocols and networks that provide universal standards and core functions for decentralized token issuance, decentralized exchanges, decentralized payment systems, decentralized honor tokens, decentralized autonomous fund protocol, etc.
+It inherits the governance principles of Bitcoin's proof-of-work (and Ethereum's proof-of-stake) and introduces its original governance consensus known as Proof of Value (PoV).
 
-## Blockchain
+Similar to Bitcoin's proof-of-work, which is driven by rewards and aims to produce a reliable ledger through valuable labor, DAism's Proof of Value consensus is reward-driven with the core mission of developing decentralized applications (dApps). Its mission is to produce valuable DAOs/dApps and foster a healthy token economy.
 
-Blockchain originated from Bitcoin's consensus mechanism and token technologies. A permissionless blockchain is a decentralized supercomputer which has an execution environment for smart contracts. It is also a distributed real-time database that grows infinitely by recording transactions, smart contract code, system states and data ever since its genesis block. Blockchain is the next generation of the internet, which achieves decentralization, censorship-resistance and trustlessness by incentivizing participation, securing system, securing data ownership, adopting onchain governance and establishing economic autonomy based on consensus mechanisms, tokens, smart contracts etc. Blockchain applications will eventually flourish with DApps and DAOs. Its ultimate goal is to evolve the existing internet from an information based internet to a value based internet and form a globally frictionless cooperation platform that tremendously improves efficiency for cooperations. &#x20;
+If you've developed a dApp and are willing to adopt DAism's Proof of Value governance, you can easily mint a DAO (Decentralized Autonomous Organization) on DAism in just one minute. Once your dApp proves its value, you can continuously receive rewards. Yes, the rewards provided by PoV are perpetual!
 
-(Quoted from "_Introduction to Blockchain_" textbook for a blockchain course at Shenzhen University:[https://u.naturaldao.io/be/](https://u.naturaldao.io/be/))
+## Development of Blockchain governance technologies&#x20;
 
-## Brief History of Blockchain DAO 1.0
+Blockchain, originating from the underlying consensus and token technology of Bitcoin, has proven to be a great governance mechanism with its proof-of-work consensus.
 
-The concept of Blockchain's DAO might date back to the term "Decentralized Organized Company"\[1] coined by Daniel Larimer on September 7, 2013. Soon after that this term was revised to "Decentralized Autonomous Corporation" abbreviated as "DAC". Thirteen days later, Vitalik Buterin published an article\[2] detailing his thoughts on DAC. On May 6, 2014, Vitalik published another article titled "DAOs, DACs, DAs and More: An Incomplete Terminology Guide" in which he was the first in the blockchain industry to point out that after DAO was initiated it would possibly be designed to run free from external control, but under predefined rules\[3].
+Representing Blockchain 2.0, Ethereum initially chose to transition from proof-of-work to proof-of-stake (PoS). Proof-of-stake has proven to enhance Ethereum's capability to deploy and operate dApps and smart contracts. It achieves features such as decentralized smart contracts, permissionless operation, free composition, resistance to censorship, and trustworthy neutrality.
 
-Later on, many teams dug into these concepts by launching various projects to explore the possibilities, including but not limited to:
+However, since the explosive growth of dApps in 2017, the industry has struggled to find effective governance methods for dApps. Additionally, token economies have almost become synonymous with scams and bubbles.
 
-BitShares, Dash(Its decision-making engine and budget system has made Dash autonomous), ARES protocol, Boardroom, Wings, RootProject, Colony, Giveth, Aragon, DAOstack, DxDAO, PolkaDAO, Moloch DAO, Gitcoin......
+In the spring of 2019, DAism started from the governance of decentralized trading and, through years of technical exploration, finally developed Proof of Value (PoV). This innovation serves as a foundation for effective governance of token economies and dApps.
+
+## Exploration of DAO 1.0
+
+The concept of blockchain DAO (Decentralized Autonomous Organization) can be traced back to September 7, 2013, when Daniel Larimer proposed the idea of a Decentralized Organized Company \[1]. This concept was quickly updated to DAC, meaning Decentralized Autonomous Corporation. Thirteen days later, Vitalik Buterin wrote an article discussing DAC \[2]. On May 6, 2014, in his blog post titled "DAOs, DACs, DAs and More: An Incomplete Terminology Guide," Vitalik pointed out for the first time that once a DAO is launched, it might be designed to operate without the need for human management, following predefined rules \[3].
+
+Many projects subsequently explored these concepts, including but not limited to BitShares, Dash (whose decision engine and budget system even made Dash self-sustainable), ARES protocol and Boardroom, Wings, RootProject, Colony, Giveth, Aragon, DAOstack, DxDAO, PolkaDAO, Moloch DAO, Gitcoin, and more. These DAOs generally agree with Vitalik's exploration, considering DAO as a decentralized autonomous organization at its core, built on human collaboration. This represents DAO 1.0.
 
 ## DAism's Definition of DAO 2.0
 
-Seven years have passed since the publication of Vitalik Buterin's article in 2014, we have gone through insane ICO bubbles, crash of crypto markets, and DeFi's booming parties, but these events still haven't led us to understand the essense of a DAO. Now it is time to re-examine DAO and survey its nature.
+After a decade of exploration, blockchain has demonstrated the tremendous power of fundamental values such as decentralization, auditability, trustlessness, and anonymity through the hardcore development of tokens and smart contracts. However, these achievements have mostly been confined to the public blockchain layer rather than the application layer.
 
-### 1.    Blockchain implies being free from control from human beings.
+Today, six years into exploring DAOs based on application needs, after the frenzy of ICOs, the pains of a two-year market downturn, and the brief euphoria of DeFi enthusiasts, we are acutely aware that it is time for us to return to our origins and thoroughly reassess DAOs.
 
-Some of us may still remember that in Bitcoin's early years there was a popular saying "Bitcoin is anonymous". You could even see it on bitcoin.org. However on one hand some people fear that the centralized world would block blockchain's development, and on the other hand still quite a few people in the blockchain world are reluctant to hand over their established power in blockchain activities. Due to these factors, "Anonymity" as one of the core features of blockchain gradually fades away in recent years.
+### 1.  The Anonymity of Blockchain Implies Isolation from Individuals
 
-Up till now still no one can prove he/she owns an amount of bitcoins in an address even when he/she shows the private key to the address because it is possible, for some reason, someone else has that private key as well or it's a stolen key.
+Some may recall the early promotional language of Bitcoin, often emphasizing the statement "Bitcoin is anonymous" – you can still find this on bitcoin.org. Unfortunately, over time, some people, fearing the tyranny of a centralized world on one hand and unwilling to relinquish their own power on the other, quietly "erased" the memory of this core feature of blockchain.
 
-Someones may say: OK I can prove that I own the private key to this wallet address by sending you some bitcoins from this address as long as I can afford it----however we know magicians can do it as well!
+To this day, no one has been able to prove that Satoshi Nakamoto mined a total of 1,125,150 BTC. The anonymity of Bitcoin prevails!
 
-Or how can we prove that we don't own bitcoins anonymously? Can anyone tell me who is the real owner of the private key to the famous address which has one million bitcoins and is claimed to be owned by Satoshi Nakamoto?
+Ethereum has gone even further by dividing accounts into two types: Externally Owned Accounts (EOA) and Contract Accounts (CA). In simple terms, EOAs are for human use, while CAs are exclusively for smart contracts. The addresses of these two types of accounts are indistinguishable to the naked eye.
 
-The birth of Ethereum marks the upcoming of a new era for blockchain i.e. blockchain 2.0. It goes further than Bitcoin. It splits Bitcoin's account type into two: externally owned accounts and contract accounts.
+Furthermore, since 2017, Ethereum's founder, Vitalik Buterin, has been continuously exploring Account Abstraction. This initiative aims to enhance the role of contract accounts, allowing them to pay transaction fees and trigger transaction execution just like externally owned accounts. In other words, without human intervention, blockchain dApps can initiate operations autonomously based on external conditions, including actively interacting with other contracts! This proposal greatly enhances the possibilities for the development of isolated human-centric blockchain applications.
 
-Simply put, an externally owned account is used by human beings and a contract account can only be used by smart contracts. However the differences between these two types of accounts cannot be told by human beings with naked eyes.
-
-If we go further and think big we can imagine that an externally owned account might be used by an AI controlled entity as well since no one can tell whether or not its private key is possessed by a human being or an AI controlled entity.
-
-This shows that Ethereum goes further by offering a possibility to completely eliminating human beings from activities in blockchain.
-
-Recently Vitalik Buterin and others launched EIP-2938 "Account Abstraction" which adds more features to a contract account and enables it to pay gases and trigger transactions like an externally owned account. This implies that even without initiations from human beings, blockchain based dApps can initiate operations and interact with other smart contracts as well. This is like an autonomous transport vehicle automatically loading goods and transporting to destinations on demand. This EIP will greatly enhance blockchain's potentials and capabilities without human beings' interactions. Eliminating control from human beings eliminates power from human beings in blockchain. Human beings cannot avoid abuse of power and blockchain provides solutions to this problem.
-
-Ethereum's handling of accounts goes much further in removing control of blockchain from human beings. We believe blockchain's anonymity means isolating blockchain from human control.
-
-We know many people are striving to defend their established power to death...
-
-### 2.    Bug Cheating is a born bug of human beings
-
-I am convinced that there was voting fraud in the past US election. My life experience tells me that among all popular general elections held in the history, there have been nearly zero cases in which there was no voting fraud. However most of the election results were accepted just because the voting fraud was limited or could be tolerated or in some cases the election results were forced to be accepted.
-
-I noticed that both Facebook and Twitter have been questioned multiple times by the US government these years. These media giants cannot even survive a single day if they don't follow some rules! However when they play the role of information screening, these media giants would eventually misconduct and do evil. This is like law-enforcement personnel committing law-breaking activities. A recent case is that many of Donald Trump's twitter messages were marked as "This claim about election fraud is disputed" and he couldn't change this by commanding "You're fired", because this act of blocking and screening is protected by Section 230 of Communications Decency Act. For the US society, it hurts but there're still no better solutions to preventing cheating.
+### 2.  Bug Cheating is a born bug of human beings
 
 In a human being's society, we have to tolerate this but in a blockchain-driven world we are able to eliminate falsification and censorship.
 
-Compared to human beings, computer programs don't naturally have this bug of cheating. Nearly half of the population in the world today are using smart phones. These billions of smart phones are doing complicated calculations day and night, but no smart phones are cheating. However the handling of US election votes is just a simple calculation: addition!
-
-If a calculation as simple as an addition could be manipulated by human beings how can we trust a blockchain world relying on management of human beings?
-
-This is irrational.
-
-### 3.    Lessons Learned from Governance of DeFi
-
-Let's take MakerDAO as an example. Its governance has two main tasks: management of Vault and adjustment of stability fee.
-
-It sounds cool to issue a governance token MKR to manage vault, doesn't it? However some hackers took advantage of it by using a Flash Loan to sway a governance vote.
-
-It's a big blow to MakerDAO's governance strategy.
-
-As for the management of the stability fee, in fact it is monopolized by a small group of rich guys. Quite often we see adjustments happen and we see voting happen but as a loyal user I have never figured out why and for what those adjustments happened. What I can imagine is that if all these adjustments can be done by programs based on algorithms that small group will never be needed and the bureaucratic voting can be over.
-
-In fact in DeFi so-called human collaboration falls into human collusion for interests. It is ridiculous to govern tokens with tokens. It is a "Money Talks" game which makes DeFi protocols a tool used by the rich to be richer.
-
-### 4.    Inspiration from Bancor
-
-Here is a quoted paragraph from Bancor's white paper:
-
-In this white paper, we have proposed the Bancor Protocol for decentralized liquidity networks, based on a standard for a new class of tokens called Smart Tokens, which provide continuous liquidity by incorporating an autonomous and low-cost market making functionality directly into their smart contracts. Smart Tokens utilize connected token balances and an intelligent and open-source formula to perpetually offer to buy or sell themselves at calculated and predictable prices, in return for any other token to which they are connected【4】.
-
-Bancor implemented an intelligent and open-source formula with smart contracts and created an unprecedented decentralized exchange which surprised the whole blockchain world.
-
-Bancor's innovations include:
-
-* Bancor created an algorithm to implement a price discovery mechanism instead of using a "matchmaking" process which has been adopted since the first stock exchange was established 247 years ago. The latter is an unfair mechanism which puts institutional investors in a much advantageous position than individual investors thus enabling the former to dominate the game.
-* Bancor's algorithm built up the first exchange that can provide infinite liquidity for token trading.
-
-Although I don't think Bancor is perfect, the above two features Bancor brought to the world changed the history.
-
-Bancor's implementation shows that smart contract implemented intelligent algorithms have created a revolutionary mechanism. Doesn't this give us huge inspirations?
-
-### 5.    Conclusion: Time to define DAO 2.0
-
-Hence we come to know:
-
-* DAO is not a sort of collaborative organization for human beings. Although in the early stages of a DAO's development it may have to rely on human beings' close and efficient collaboration and cooperation. At present, we may call DAO as "smart-contracting collaboration".
-* I am convinced that AI will ultimately surpass human beings. But now it is still a little bit early since AI is too immature to compete with human beings and play their roles in the blockchain world. And even in the blockchain world the most popular blockchain Ethereum is too immature to work with AI. Therefore for now we can only rely on intelligent algorithms like what Bancor has implemented. In fact Bancor has proved that its success is achieved by eliminating human beings' manipulation in its basic mechanism therefore it brought a revolution to price discovery mechanisms in trading.
-
-When we re-examine the term "Decentralized Autonomous Organization", we find that the word "Organization" which we use to interpret some changes and innovations that are and will take place in blockchain is misleading. In the Cambridge Dictionary "Organization" is defined as "a group of people who work together in an organized way for a shared purpose". It implies the following two meanings:
-
-* An organization relies on human beings.
-* Human beings' power plays the key role in an organization.
-
-However, from Bitcoin to Ethereum and dApps, blockchain has always been evolving and striving to eliminate reliance on human beings, and has found aforementioned ways of anonymity to accomplish this.
-
-Another remarkable fact is that neither Bitcoin's PoW consensus nor Ethereum's upcoming PoS consensus relies on human beings to commit transactions to a ledger but both rely on software to do so instead of human beings. Furthermore, both PoW and PoS can detect and prevent incorrect transactions from being committed when someone tries to do so. It is the consensus mechanism that secures a blockchain's security. It tells a straightforward fact that in a blockchain world we no longer need human beings to secure a system but instead we need to eliminate human beings' interference to secure a system.
-
-Hence, Bitcoin and Ethereum are already successful decentralized autonomous organization. And they both have a key element: confining human beings within a cage.
-
-Therefore the core value of an organization is completely divergent from blockchain's decentralization and it does no good to blockchain's development and success.
-
-A tiny virus tore apart the superficial prosperity and mightiness of our human society and showed how weak and fragile the existing centralized world actually is. We need blockchain to reconstruct our society and we need to re-examine our thinkings.
+### 3.  Definition of DAO 2.0
 
 On November 28 2020, Fred Ehrsam, co-founder of Coinbase and Paradigm, and Dan Robinson published "Governance Minimization" in which there're some key points relating to the topic we're discussing here:
 
@@ -128,23 +69,27 @@ On November 28 2020, Fred Ehrsam, co-founder of Coinbase and Paradigm, and Dan R
 
 Do we still remember a frequently discussed topic about Bitcoin's features in its early years---"Trustless"? Essentially only when a system or a dApp is credibly neutural can it be trustless! Therefore, no matter how decentralized a project's governance seems if it lacks credible neuturality the project can hardly survive in the long term in a blockchain ecosystem. The only way to credible neuturality is minimization of governance like what Bancor has accomplished by implementing a price-discovery mechanism with smart contracts and algorithms.
 
-**We propose to define DAO 2.0 as Decentralized Autonomous Organism.**
+**DAism's Definition of DAO 2.0:**
 
-**"Decentralized Autonomous Organism" means:**
+1. DAO = Proof of Value + Smart Contracts + Exclusive Valueation Token\
+   DAism's Proof of Value is the guarantee for effective governance of DAO. The value of dApp's smart contracts is the foundation of DAO. In DAism's well-constructed token economy, the exclusive value token becomes the value assessment indicator for dApps.
+2. Following the principles of governance minimization and trustworthy neutrality, aiming for exceptionally high user-friendliness and stability.
 
-1. DAO = Consensus + Token + Smart Contracts + Smart Algorithms\
-   Every Decentralized Autonomous Organism needs to be intelligent. We need intelligent algorithms and need to eliminate human beings' manipulation.
-2. Governance Minimum and Credible Neutrality\
-   Bancor has proven that intelligent algorithms are a solution to both.
-3. No Decentralized Autonomous Organisms will be isolated. Every DAO will be able to interact with one another intelligently. Every DAO can send service requests to other DAOs, and can digest replied data (by absorbing nutrients and eliminating wastes) and enjoy offered services. Therefore a DAO's behavior(e.g. changes of the stability fee in MakerDAO) cannot be changed at will by human beings such that a DAO can maintain stable and user-friendly interfaces and behavior to its users and smart contracts that interact with it.
-4. A DAO has its own life span. It may die abnormally (from being attacked by hackers or being hurt by malicious DAOs). After an existing DAO dies, another existing or a newly generated DAO will take over its role and continue its course.
+These two principles will change the development model of dApps.
 
-Considering the rapid development of AI, DAO may keep evolving, growing and moving forward by adopting more and more AI in the future. Along with DAO's development it will always be alert to and prevent bug from being brought in by human beings.
+Moreover, hardly any DAO will be isolated in the future. Each DAO can intelligently respond to interaction requests from other DAOs and initiate interaction requests to other DAOs based on its intelligence. To build a secure, stable, and highly efficient industry on the foundation of these distinctive features, each DAO clearly cannot be inconsistent, capricious, or undergo arbitrary changes. This is to maintain friendliness and stability towards users and external contracts.
 
-Today it is time to re-examine our outdated understanding of DAO, redefine its essentials and move forward with a completely new thinking.
+The development of AI is imminent, and its powerful alliance with blockchain is only a matter of time. We propose elevating DAO 2.0 to Decentralized Autonomous Organism (DAO). This evolution is to ensure that DAOs can keep up with the times, constantly guarding against the disruptions brought by human bugs.
 
-## Eclectic DAism
+## **DAism's Proof of Value and its Governance for Tokenomics and DAO/dApp.**
 
-We are not against DAO 1.0, we think DAO 1.0 can be the off-chain part of a DAO, while its 2.0 core is on-chain.
+DAism, through its original Proof of Value (PoV), establishes effective governance for tokenomics and DAO/dApp development. By creating a robust tokenomics with innovative features such as price measurement (Price Unit), DAism incentivizes and drives the development of decentralized applications (dApps).
 
-On DAism, a DAO can be anyone, any organization, and any organism. A DAO can develop some dApp(s), or just freely combine any dApps, or do things more complicated.
+1.  **Good Tokenomics**\
+    DAism, through innovations in pricing metrics, introduces a reasonable decentralized trading network known as the IADD Network. The transparency of smart contracts in the IADD Network transforms it into a value-oriented investment market, characterized by fairness and equity.
+
+    Through the governance of two major protocols regarding the issuance of value tokens and liquidity pool supply, DAism ensures that all DAOs maintain impeccable financial practices.
+2. **Incentive-Driven Approach**\
+   Each value token transaction incurs a 2% transaction fee, which is then rewarded to the respective DAO developers. This incentive-driven mechanism encourages the transformation of all dApps into public goods.
+3. **Minting DAO: Transforming dApps into Public Resources**\
+   Minting a DAO signifies developers voluntarily converting their developed dApps into public resources. This approach aligns with DAism's commitment to fostering a public and collaborative ecosystem.
