@@ -9,13 +9,19 @@ description: >-
 
 ## What is DAism?
 
-DAism, or Dao Yi Cheng, is the public governance layer of the token economy and DAO (Decentralized Autonomous Organization) value system on the Ethereum blockchain.
+DAism is the public governance layer of tokenomics and DAO (Decentralized Autonomous Organism) value system on the Ethereum blockchain. Proof of Value (PoV) is the original governance consensus introduced by DAism.
 
-It inherits the governance principles of Bitcoin's proof-of-work (and Ethereum's proof-of-stake) and introduces its original governance consensus known as Proof of Value (PoV).
+## What is Proof of Value?
 
-Similar to Bitcoin's proof-of-work, which is driven by rewards and aims to produce a reliable ledger through valuable labor, DAism's Proof of Value consensus is reward-driven with the core mission of developing decentralized applications (dApps). Its mission is to produce valuable DAOs/dApps and foster a healthy token economy.
+**Proof of Value (PoV) is the original consensu for the governance of Tokenomics and DAO's/dApp's Value System.**
 
-If you've developed a dApp and are willing to adopt DAism's Proof of Value governance, you can easily mint a DAO (Decentralized Autonomous Organization) on DAism in just one minute. Once your dApp proves its value, you can continuously receive rewards. Yes, the rewards provided by PoV are perpetual!
+Proof of Value (PoV) is the original consensus governing the Tokenomics and DAO/dApp value system in DAism. DAism's Proof of Value inherits the governance principles from Bitcoin's proof-of-work and Ethereum's proof-of-stake:
+
+Bitcoin's proof-of-work is driven by rewards, utilizing valuable labor to produce a reliable ledger as a collaborative task. Similarly, DAism's Proof of Value is reward-driven, with the core mission of fostering dApp development, aiming to generate valuable DAOs/dApps and nurturing a robust tokenomics.
+
+If you've developed a dApp and are willing to embrace DAism's Proof of Value governance, you can mint a DAO (Decentralized Autonomous Organization) on DAism in just one minute. Subsequently, if your dApp proves its value, you can continuously receive rewards. Yes, the rewards provided by PoV are perpetual!
+
+The introduction of Proof of Value signifies that, like Bitcoin and Ethereum, DAism is committed to cultivating a governance model that goes beyond traditional paradigms, laying the groundwork for a vibrant and sustainable decentralized ecosystem.
 
 ## Development of Blockchain governance technologies&#x20;
 
@@ -72,7 +78,7 @@ Do we still remember a frequently discussed topic about Bitcoin's features in it
 **DAism's Definition of DAO 2.0:**
 
 1. DAO = Proof of Value + Smart Contracts + Exclusive Valueation Token\
-   DAism's Proof of Value is the guarantee for effective governance of DAO. The value of dApp's smart contracts is the foundation of DAO. In DAism's well-constructed token economy, the exclusive value token becomes the value assessment indicator for dApps.
+   DAism's Proof of Value is the guarantee for effective governance of DAO. The value of dApp's smart contracts is the foundation of DAO. In DAism's well-constructed tokenomics, the exclusive value token becomes the value assessment indicator for dApps.
 2. Following the principles of governance minimization and trustworthy neutrality, aiming for exceptionally high user-friendliness and stability.
 
 These two principles will change the development model of dApps.
