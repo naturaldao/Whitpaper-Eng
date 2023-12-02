@@ -9,17 +9,17 @@ description: >-
 
 ## What is DAism?
 
-DAism is the public governance layer of tokenomics and DAO (Decentralized Autonomous Organism) value system on the Ethereum blockchain. Proof of Value (PoV) is the original governance consensus introduced by DAism.
+DAism is the public governance layer of tokenomics and DAO (Decentralized Autonomous Organism) value system on the Ethereum blockchain. And the governance consensus introduced by DAism is Proof of Value (PoV) .
 
-## What is Proof of Value?
+## What is Proof of Value（PoV）?
 
-**Proof of Value (PoV) is the original consensu for the governance of Tokenomics and DAO's/dApp's Value System.**
+**Proof of Value (PoV) is DAism's original consensu for the governance of Tokenomics and DAO's/dApp's Value System.**
 
-Proof of Value (PoV) is the original consensus governing the Tokenomics and DAO/dApp value system in DAism. DAism's Proof of Value inherits the governance principles from Bitcoin's proof-of-work and Ethereum's proof-of-stake:
+DAism's Proof of Value inherits the governance principles from Bitcoin's proof-of-work (and Ethereum's proof-of-stake):
 
-Bitcoin's proof-of-work is driven by rewards, utilizing valuable labor to produce a reliable ledger as a collaborative task. Similarly, DAism's Proof of Value is reward-driven, with the core mission of fostering dApp development, aiming to generate valuable DAOs/dApps and nurturing a robust tokenomics.
+Bitcoin's proof-of-work is driven by rewards, utilizing valuable labor to produce a reliable ledger as a collaborative task. Similarly, DAism's Proof of Value is reward-driven, with the core mission of fostering dApp development, aiming to generate valuable dApps and nurturing a robust tokenomics.
 
-If you've developed a dApp and are willing to embrace DAism's Proof of Value governance, you can mint a DAO (Decentralized Autonomous Organization) on DAism in just one minute. Subsequently, if your dApp proves its value, you can continuously receive rewards. Yes, the rewards provided by PoV are perpetual!
+If you've developed a dApp and are willing to embrace DAism's Proof of Value governance, you can mint a DAO on DAism in just one minute. Subsequently, if your dApp proves its value, you can continuously receive rewards. Yes, the rewards provided by PoV are perpetual!
 
 The introduction of Proof of Value signifies that, like Bitcoin and Ethereum, DAism is committed to cultivating a governance model that goes beyond traditional paradigms, laying the groundwork for a vibrant and sustainable decentralized ecosystem.
 
