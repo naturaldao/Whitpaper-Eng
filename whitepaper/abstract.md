@@ -95,6 +95,6 @@ DAism, based on its original Proof of Value (PoV), establishes Good Tokenomics a
 
     Through the governance of two major protocols regarding the issuance of valuation tokens and liquidity pool supply, DAism ensures that all DAOs maintain impeccable financial practices.
 2. **Incentive-Driven Approach**\
-   Each valuation token transaction incurs a 2% transaction fee, which is then rewarded to the respective DAO developers. This incentive-driven mechanism encourages the transformation of all dApps into public goods.
-3. **Minting DAO: Transforming dApps into Public Resources**\
-   Minting a DAO signifies developers voluntarily converting their developed dApps into public resources. This approach aligns with DAism's commitment to fostering a public and collaborative ecosystem.
+   Each valuation token transaction incurs a 2% transaction fee, which is then rewarded to the respective DAO developers. This incentive-driven mechanism encourages the transformation of all dApps into [Public Goods](https://en.wikipedia.org/wiki/Public\_good\_\(economics\)).
+3. **Minting DAO: Transforming dApps into Public Goods**\
+   Minting a DAO signifies developers voluntarily converting their developed dApps into [Public Goods](https://en.wikipedia.org/wiki/Public\_good\_\(economics\)). This approach aligns with DAism's commitment to fostering a public and collaborative ecosystem.
