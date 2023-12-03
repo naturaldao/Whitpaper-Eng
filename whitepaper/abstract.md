@@ -27,11 +27,11 @@ The introduction of Proof of Value signifies that, like Bitcoin and Ethereum, DA
 
 Blockchain, originating from the underlying consensus and token technology of Bitcoin, has proven to be a great governance mechanism with its proof-of-work consensus.
 
-Representing Blockchain 2.0, Ethereum initially chose to transition from proof-of-work to proof-of-stake (PoS). Proof-of-stake has proven to enhance Ethereum's capability to deploy and operate dApps and smart contracts. It achieves features such as decentralized smart contracts, permissionless operation, free composition, resistance to censorship, and trustworthy neutrality.
+Representing Blockchain 2.0, Ethereum initially chose to transition from proof-of-work to proof-of-stake (PoS). Proof-of-stake has proven to enhance Ethereum's capability to deploy and operate dApps (smart contracts). It achieves features such as permissionless, composability, anti-censorship, and trustless trust.
 
-However, since the explosive growth of dApps in 2017, the industry has struggled to find effective governance methods for dApps. Additionally, token economies have almost become synonymous with scams and bubbles.
+However, since the explosive growth of dApps in 2017, the industry has struggled to find effective governance strategies for dApps. Additionally, tokenomics have almost become synonymous with scams and bubbles.
 
-In the spring of 2019, DAism started from the governance of decentralized trading and, through years of technical exploration, finally developed Proof of Value (PoV). This innovation serves as a foundation for effective governance of token economies and dApps.
+In the spring of 2019, DAism started from the governance of decentralized exchange and, through years of technical exploration, finally developed Proof of Value (PoV). This innovation serves as a foundation for effective governance of tokenomics and dApps.
 
 ## Exploration of DAO 1.0
 
@@ -41,7 +41,7 @@ Many projects subsequently explored these concepts, including but not limited to
 
 ## DAism's Definition of DAO 2.0
 
-After a decade of exploration, blockchain has demonstrated the tremendous power of fundamental values such as decentralization, auditability, trustlessness, and anonymity through the hardcore development of tokens and smart contracts. However, these achievements have mostly been confined to the public blockchain layer rather than the application layer.
+After a decade of exploration, blockchain has demonstrated the tremendous power of fundamental values such as decentralization, anti-censorship, trustless trust, and anonymity through the hardcore development of tokens and smart contracts. However, these achievements have mostly been confined to the public blockchain layer rather than the application layer.
 
 Today, six years into exploring DAOs based on application needs, after the frenzy of ICOs, the pains of a two-year market downturn, and the brief euphoria of DeFi enthusiasts, we are acutely aware that it is time for us to return to our origins and thoroughly reassess DAOs.
 
@@ -51,13 +51,13 @@ Some may recall the early promotional language of Bitcoin, often emphasizing the
 
 To this day, no one has been able to prove that Satoshi Nakamoto mined a total of 1,125,150 BTC. The anonymity of Bitcoin prevails!
 
-Ethereum has gone even further by dividing accounts into two types: Externally Owned Accounts (EOA) and Contract Accounts (CA). In simple terms, EOAs are for human use, while CAs are exclusively for smart contracts. The addresses of these two types of accounts are indistinguishable to the naked eye.
+Ethereum has gone even further by dividing accounts into two types: Externally Owned Account (EOA) and Contract Account (CA). In simple terms, EOAs are for human use, while CAs are exclusively for smart contracts. The addresses of these two types of accounts are indistinguishable to the naked eye.
 
-Furthermore, since 2017, Ethereum's founder, Vitalik Buterin, has been continuously exploring Account Abstraction. This initiative aims to enhance the role of contract accounts, allowing them to pay transaction fees and trigger transaction execution just like externally owned accounts. In other words, without human intervention, blockchain dApps can initiate operations autonomously based on external conditions, including actively interacting with other contracts! This proposal greatly enhances the possibilities for the development of isolated human-centric blockchain applications.
+Furthermore, since 2017, Ethereum's founder, Vitalik Buterin, has been continuously exploring Account Abstraction. This initiative aims to enhance the role of CA, allowing them to pay transaction fees and trigger transaction execution just like EOA. In other words, without human intervention, dApps can initiate operations autonomously based on external conditions, including actively interacting with other contracts! This proposal greatly enhances the possibilities to isolate blockchain applications from human control.
 
-### 2.  Bug Cheating is a born bug of human beings
+### 2.  Cheating is a born bug of human beings
 
-In a human being's society, we have to tolerate this but in a blockchain-driven world we are able to eliminate falsification and censorship.
+In a human being's society, we have to tolerate this bug but in a blockchain-driven world we are able to eliminate falsification and censorship.
 
 ### 3.  Definition of DAO 2.0
 
