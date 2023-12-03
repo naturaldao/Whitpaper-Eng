@@ -77,25 +77,24 @@ Do we still remember a frequently discussed topic about Bitcoin's features in it
 
 **DAism's Definition of DAO 2.0:**
 
-1. DAO = Proof of Value + Smart Contracts + Exclusive Valueation Token\
+1. DAO = Consensus(PoV) + Smart Contracts + Exclusive Valueation Token\
    DAism's Proof of Value is the guarantee for effective governance of DAO. The value of dApp's smart contracts is the foundation of DAO. In DAism's well-constructed tokenomics, the exclusive value token becomes the value assessment indicator for dApps.
-2. Following the principles of governance minimization and trustworthy neutrality, aiming for exceptionally high user-friendliness and stability.
+2. Following the principles of governance minimization and credible neutrality, aiming for exceptionally high user-friendliness and stability.\
+   Hardly any DAO will be isolated in the future. Each DAO can intelligently respond to interaction requests from other DAOs and initiate interaction requests to other DAOs based on its intelligence. To build a secure, stable, and highly efficient industry on the foundation of these distinctive features, each DAO clearly cannot be inconsistent, capricious, or undergo arbitrary changes. This is to maintain friendliness and stability towards users and external contracts.
 
 These two principles will change the development model of dApps.
 
-Moreover, hardly any DAO will be isolated in the future. Each DAO can intelligently respond to interaction requests from other DAOs and initiate interaction requests to other DAOs based on its intelligence. To build a secure, stable, and highly efficient industry on the foundation of these distinctive features, each DAO clearly cannot be inconsistent, capricious, or undergo arbitrary changes. This is to maintain friendliness and stability towards users and external contracts.
-
-The development of AI is imminent, and its powerful alliance with blockchain is only a matter of time. We propose elevating DAO 2.0 to Decentralized Autonomous Organism (DAO). This evolution is to ensure that DAOs can keep up with the times, constantly guarding against the disruptions brought by human bugs.
+The development of AI is imminent, and its powerful alliance with blockchain is only a matter of time. We propose elevating DAO 2.0 to Decentralized Autonomous Organism (DAO). This evolution is to ensure that DAOs can keep up with the times, constantly guarding against the disruptions brought by the human bug.
 
 ## **DAism's Proof of Value and its Governance for Tokenomics and DAO/dApp.**
 
-DAism, through its original Proof of Value (PoV), establishes effective governance for tokenomics and DAO/dApp development. By creating a robust tokenomics with innovative features such as price measurement (Price Unit), DAism incentivizes and drives the development of decentralized applications (dApps).
+DAism, based on its original Proof of Value (PoV), establishes Good Tokenomics and perpetual reward ,and drives the development of decentralized applications (dApps).
 
 1.  **Good Tokenomics**\
-    DAism, through innovations in pricing metrics, introduces a reasonable decentralized trading network known as the IADD Network. The transparency of smart contracts in the IADD Network transforms it into a value-oriented investment market, characterized by fairness and equity.
+    DAism, through innovations in pricing metrics, introduces a reasonable decentralized exchange network known as the IADD Network. The transparency of smart contracts in the IADD Network transforms it into a value-oriented investment market, characterized by fairness and equity.
 
-    Through the governance of two major protocols regarding the issuance of value tokens and liquidity pool supply, DAism ensures that all DAOs maintain impeccable financial practices.
+    Through the governance of two major protocols regarding the issuance of valuation tokens and liquidity pool supply, DAism ensures that all DAOs maintain impeccable financial practices.
 2. **Incentive-Driven Approach**\
-   Each value token transaction incurs a 2% transaction fee, which is then rewarded to the respective DAO developers. This incentive-driven mechanism encourages the transformation of all dApps into public goods.
+   Each valuation token transaction incurs a 2% transaction fee, which is then rewarded to the respective DAO developers. This incentive-driven mechanism encourages the transformation of all dApps into public goods.
 3. **Minting DAO: Transforming dApps into Public Resources**\
    Minting a DAO signifies developers voluntarily converting their developed dApps into public resources. This approach aligns with DAism's commitment to fostering a public and collaborative ecosystem.
