@@ -5,7 +5,7 @@
 * [Preface](README.md)
 * [1. Introduction](whitepaper/abstract.md)
 * [2. Architecture](whitepaper/acronyms.md)
-* [3. The composition of the PoV](whitepaper/3.-the-composition-of-the-pov.md)
+* [3. The Composition of PoV](whitepaper/3.-the-composition-of-pov.md)
 * [4. DAism Protocols](whitepaper/4.-daism-protocols.md)
 * [5. IADD Network](whitepaper/5.-iadd-network.md)
 * [6. Features of DAism](whitepaper/7.-features-of-daism.md)
