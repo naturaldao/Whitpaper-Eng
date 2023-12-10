@@ -4,7 +4,6 @@
 
 * [Preface](README.md)
 * [1. Introduction](whitepaper/abstract.md)
-* [2. Architecture](whitepaper/acronyms.md)
 * [3. The Composition of Proof-of-Value](whitepaper/3.-the-composition-of-proof-of-value.md)
 * [4. Governance Protocols of Proof-of-Value](whitepaper/4.-governance-protocols-of-proof-of-value.md)
 * [5. IADD Network](whitepaper/5.-iadd-network.md)
