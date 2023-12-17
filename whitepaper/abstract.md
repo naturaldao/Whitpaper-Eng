@@ -9,11 +9,11 @@ description: >-
 
 ## What is DAism?
 
-DAism is a public governance layer of tokenomics and DAO's (Decentralized Autonomous Organism) value system. And the unique governance consensus introduced by DAism is Proof of Value (PoV) .
+DAism is a public governance layer of tokenomics and DAO's (Decentralized Autonomous Organism) value system. And the unique governance consensus introduced by DAism is Proof of Value (PoV).
 
 ## What is Proof of Value（PoV）?
 
-**Proof of Value (PoV) is DAism's original consensu for the governance of tokenomics and DAO's/dApp's Value System.**
+**Proof of Value (PoV) is DAism's original consensus for the governance of tokenomics and DAO's/dApp's Value System.**
 
 DAism's proof-of-value inherits the governance principles from Bitcoin's proof-of-work (and Ethereum's proof-of-stake):
 
@@ -73,7 +73,7 @@ On November 28 2020, Fred Ehrsam, co-founder of Coinbase and Paradigm, and Dan R
 
     It is a core attribute which kicks off a positive feedback loop between trust and adoption as a standard. It also puts powerful, basic tools in the hands of all creators, generating more opportunities and faster progress for the entire crypto ecosystem.
 
-Do we still remember a frequently discussed topic about Bitcoin's features in its early years---"Trustless"? Essentially only when a system or a dApp is credibly neutural can it be trustless! Therefore, no matter how decentralized a project's governance seems if it lacks credible neuturality the project can hardly survive in the long term in a blockchain ecosystem. The only way to credible neuturality is minimization of governance like what Bancor has accomplished by implementing a price-discovery mechanism with smart contracts and algorithms.
+Do we still remember a frequently discussed topic about Bitcoin's features in its early years---"Trustless"? Essentially only when a system or a dApp is credibly neutral can it be trustless! Therefore, no matter how decentralized a project's governance seems if it lacks credible neutrality the project can hardly survive in the long term in a blockchain ecosystem. The only way to credible neutrality is minimization of governance like what Bancor has accomplished by implementing a price-discovery mechanism with smart contracts and algorithms.
 
 **DAism's Definition of DAO 2.0:**
 
@@ -88,7 +88,7 @@ The development of AI is imminent, and its powerful alliance with blockchain is 
 
 ## **DAism's Proof of Value and its Governance for Tokenomics and DAO/dApp.**
 
-DAism, based on its original Proof of Value (PoV), establishes Good Tokenomics and perpetual reward ,and drives the development of decentralized applications (dApps).
+DAism, based on its original Proof of Value (PoV), establishes Good Tokenomics and perpetual reward, and drives the development of decentralized applications (dApps).
 
 1.  **Good Tokenomics**\
     DAism, through innovations in pricing metrics, introduces a reasonable decentralized exchange network known as the IADD Network. The transparency of smart contracts in the IADD Network transforms it into a value-oriented investment market, characterized by fairness and equity.
@@ -97,4 +97,4 @@ DAism, based on its original Proof of Value (PoV), establishes Good Tokenomics a
 2. **Incentive-Driven Approach**\
    Each valuation token transaction incurs a 2% transaction fee, which is then rewarded to the respective DAO developers. This incentive-driven mechanism encourages the transformation of all dApps into [Public Goods](https://en.wikipedia.org/wiki/Public\_good\_\(economics\)).
 3. **Minting DAO: Transforming dApps into Public Goods**\
-   Minting a DAO signifies developers voluntarily converting their developed dApps into [Public Goods](https://en.wikipedia.org/wiki/Public\_good\_\(economics\)). This proposal(espcially its sub-protocol SC0) aligns with DAism's commitment to fostering a public and collaborative ecosystem.
+   Minting a DAO signifies developers voluntarily converting their developed dApps into [Public Goods](https://en.wikipedia.org/wiki/Public\_good\_\(economics\)). This proposal (especially its sub-protocol SC0) aligns with DAism's commitment to fostering a public and collaborative ecosystem.
