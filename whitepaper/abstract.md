@@ -78,7 +78,7 @@ Do we still remember a frequently discussed topic about Bitcoin's features in it
 **DAism's Definition of DAO 2.0:**
 
 1. DAO = Consensus(PoV) + Smart Contracts + Exclusive Valueation Token\
-   DAism's Proof of Value is the guarantee for effective governance of DAO. The value of dApp's smart contracts is the foundation of DAO. In DAism's well-constructed tokenomics, the exclusive value token becomes the value assessment indicator for dApps.
+   DAism's Proof of Value is the guarantee for effective governance of DAO. The value of dApp's smart contracts is the foundation of DAO. In DAism's well-constructed tokenomics, the exclusive valuation token becomes the value assessment indicator for dApps.
 2. Following the principles of governance minimization and credible neutrality, aiming for exceptionally high user-friendliness and stability.\
    Hardly any DAO will be isolated in the future. Each DAO can intelligently respond to interaction requests from other DAOs and initiate interaction requests to other DAOs based on its intelligence. To build a secure, stable, and highly efficient industry on the foundation of these distinctive features, each DAO clearly cannot be inconsistent, capricious, or undergo arbitrary changes. This is to maintain friendliness and stability towards users and external contracts.
 
@@ -95,6 +95,6 @@ DAism, based on its original Proof of Value (PoV), establishes Good Tokenomics a
 
     Through the governance of two major protocols regarding the issuance of valuation tokens and liquidity pool supply, DAism ensures that all DAOs maintain impeccable financial practices.
 2. **Incentive-Driven Approach**\
-   Each valuation token transaction incurs a 2% transaction fee, which is then rewarded to the respective DAO developers. This incentive-driven mechanism encourages the transformation of all dApps into [Public Goods](https://en.wikipedia.org/wiki/Public\_good\_\(economics\)).
-3. **Minting DAO: Transforming dApps into Public Goods**\
-   Minting a DAO signifies developers voluntarily converting their developed dApps into [Public Goods](https://en.wikipedia.org/wiki/Public\_good\_\(economics\)). This proposal(espcially its sub-protocol SC0) aligns with DAism's commitment to fostering a public and collaborative ecosystem.
+   Each valuation token transaction incurs a 2% transaction fee, which is then rewarded to the respective DAO developers. This incentive-driven mechanism encourages the transformation of all dApps into Smart Commons/[Public Goods](https://en.wikipedia.org/wiki/Public\_good\_\(economics\)).
+3. **Minting DAO: Transforming dApps into Smart Commons**\
+   Minting a DAO signifies developers voluntarily converting their developed dApps into Smart Commons (a sort of [Public Goods](https://en.wikipedia.org/wiki/Public\_good\_\(economics\))). This proposal(espcially its sub-protocol SC0) aligns with DAism's commitment to fostering a public and collaborative ecosystem.
