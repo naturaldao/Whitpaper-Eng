@@ -19,7 +19,7 @@ DAism's proof-of-value inherits the governance principles from Bitcoin's proof-o
 
 Bitcoin's proof-of-work is driven by rewards, utilizing valuable labor to produce a reliable ledger as a collaborative task. Similarly, DAism's proof-of-value is reward-driven, with the core mission of fostering dApp development, aiming to generate valuable dApps and nurturing Good Tokenomics.
 
-If you've developed a dApp and are willing to embrace DAism's Proof of Value governance, you can mint a DAO on DAism in just one minute. Subsequently, if your dApp proves its value, you can continuously receive rewards. Yes, the rewards provided by PoV are lifelong!
+If you've developed a dApp and are willing to embrace DAism's Proof of Value governance, you can mint a DAO on DAism with this dApp in just one minute. Subsequently, if your dApp proves its value, you can continuously receive rewards. Yes, the rewards provided by PoV are lifelong!
 
 The introduction of Proof of Value signifies that, like Bitcoin and Ethereum, DAism is committed to cultivating a governance model that goes beyond traditional paradigms, laying the groundwork for a vibrant and sustainable decentralized ecosystem.
 
