@@ -9,7 +9,7 @@ description: >-
 
 ## What is DAism?
 
-DAism is a public governance layer of tokenomics and DAO's (Decentralized Autonomous Organism) value system. And the unique governance consensus introduced by DAism is Proof of Value (PoV) .
+DAism is a public governance layer of tokenomics and dApp. And the unique governance consensus introduced by DAism is Proof of Value (PoV) .
 
 ## What is Proof of Value（PoV）?
 
