@@ -27,7 +27,7 @@ The introduction of Proof of Value signifies that, like Bitcoin and Ethereum, DA
 
 Blockchain, originating from the underlying consensus and token technology of Bitcoin, has proven to be a great governance mechanism with its proof-of-work consensus.
 
-Representing Blockchain 2.0, Ethereum initially chose to transition from proof-of-work to proof-of-stake (PoS). Proof-of-stake has proven to enhance Ethereum's capability to deploy and operate dApps (smart contracts). It achieves features such as permissionless, composability, anti-censorship, and trustless trust.
+Representing Blockchain 2.0, Ethereum initially chose to transition from proof-of-work to proof-of-stake (PoS). Proof-of-stake has proven to enhance Ethereum's capability to deploy and operate dApps (smart contracts). It achieves features such as permissionlessness, composability, anti-censorship, and trustless trust.
 
 However, since the explosive growth of dApps in 2017, the industry has struggled to find effective governance strategies for dApps. Additionally, tokenomics have almost become synonymous with scams and bubbles.
 
@@ -53,7 +53,7 @@ To this day, no one has been able to prove that Satoshi Nakamoto mined a total o
 
 Ethereum has gone even further by dividing accounts into two types: Externally Owned Account (EOA) and Contract Account (CA). In simple terms, EOAs are for human use, while CAs are exclusively for smart contracts. The addresses of these two types of accounts are indistinguishable to the naked eye.
 
-Furthermore, since 2017, Ethereum's founder, Vitalik Buterin, has been continuously exploring Account Abstraction. This initiative aims to enhance the role of CA, allowing them to pay transaction fees and trigger transaction execution just like EOA. In other words, without human intervention, dApps can initiate operations autonomously based on external conditions, including actively interacting with other contracts! This proposal greatly enhances the possibilities to isolate blockchain applications from human control.
+Furthermore, since 2017, Ethereum's founder, Vitalik Buterin, has been continuously exploring Account Abstraction. This initiative aims to enhance the role of CA, allowing it to pay transaction fees and trigger transaction execution just like EOA. In other words, without human intervention, dApps can initiate operations autonomously based on external conditions, including actively interacting with other contracts! This proposal greatly enhances the possibilities to isolate blockchain applications from human control.
 
 ### 2.  Cheating is a born bug of human beings
 
@@ -77,7 +77,7 @@ Do we still remember a frequently discussed topic about Bitcoin's features in it
 
 **DAism's Definition of DAO 2.0:**
 
-1. DAO = Consensus(PoV) + Smart Contracts + Exclusive Valueation Token\
+1. DAO = Consensus(PoV) + Smart Contracts + Exclusive Valuation Token\
    DAism's Proof of Value is the guarantee for effective governance of DAO. The value of dApp's smart contracts is the foundation of DAO. In DAism's well-constructed tokenomics, the exclusive valuation token becomes the value assessment indicator for dApps.
 2. Following the principles of governance minimization and credible neutrality, aiming for exceptionally high user-friendliness and stability.\
    Hardly any DAO will be isolated in the future. Each DAO can intelligently respond to interaction requests from other DAOs and initiate interaction requests to other DAOs based on its intelligence. To build a secure, stable, and highly efficient industry on the foundation of these distinctive features, each DAO clearly cannot be inconsistent, capricious, or undergo arbitrary changes. This is to maintain friendliness and stability towards users and external contracts.
@@ -86,7 +86,7 @@ These two principles will change the development model of dApps.
 
 The development of AI is imminent, and its powerful alliance with blockchain is only a matter of time. We propose elevating DAO 2.0 to Decentralized Autonomous Organism (DAO). This evolution is to ensure that DAOs can keep up with the times, constantly guarding against the disruptions brought by the human bug.
 
-## **DAism's Proof of Value and its Governance for Tokenomics and DAO/dApp.**
+## **DAism's Proof of Value and its Governance for Tokenomics and DAOs/dApps.**
 
 DAism, based on its original Proof of Value (PoV), establishes Good Tokenomics and perpetual reward ,and drives the development of decentralized applications (dApps).
 
