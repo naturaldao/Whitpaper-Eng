@@ -8,9 +8,9 @@ description: This is DAism's Whitepaper V2.
 
 
 
-**DAism** is a public governance layer of Tokenomics and DAO/dApp.&#x20;
+**DAism** is a public governance layer of Tokenomics and DAOs/dApps.&#x20;
 
-DAism inherits the governance principles from Bitcoin's proof-of-work and Ethereum's proof-of-stake. The original governance consensus introduced by DAism is known as Proof of Value (PoV).
+DAism inherits the governance principles from Bitcoin's proof-of-work and Ethereum's proof-of-stake. The innovative governance consensus introduced by DAism is known as Proof of Value (PoV).
 
 This means that DAism serves as a public governance layer that enables the proliferation of DAOs and dApps, fostering the flourishing growth of Tokenomics.&#x20;
 
@@ -18,7 +18,7 @@ This means that DAism serves as a public governance layer that enables the proli
 DAism, the plateform
 {% endembed %}
 
-[NaturalDAO](https://app.gitbook.com/www.naturaldao.io) is the core development team behind DAism, with its initial member being Derek Zhou, Yuefei Tan, Elon Lee, Hua zhang, Queena Tong:
+[NaturalDAO](https://app.gitbook.com/www.naturaldao.io) is the core development team behind DAism, with its initial members being Derek Zhou, Yuefei Tan, Elon Lee, Hua zhang, Queena Tong:
 
 {% embed url="https://www.naturaldao.io" %}
 NaturalDAO, the core team of development
