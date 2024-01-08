@@ -4,11 +4,9 @@ description: This is DAism's Whitepaper V2.
 
 # Preface
 
-**DAism** is a public governance layer of Tokenomics and DAOs/dApps.&#x20;
+**DAism** is a public governance layer of Tokenomics and dApps.&#x20;
 
 DAism inherits the governance principles from Bitcoin's proof-of-work and Ethereum's proof-of-stake. The innovative governance consensus introduced by DAism is known as Proof of Value (PoV).
-
-This means that DAism serves as a public governance layer that enables the proliferation of DAOs and dApps, fostering the flourishing growth of Tokenomics.&#x20;
 
 {% embed url="http://www.daism.io" %}
 DAism, the plateform
