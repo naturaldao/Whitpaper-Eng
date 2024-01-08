@@ -70,6 +70,7 @@ Do we still remember a frequently discussed topic about Bitcoin's features in it
 **DAism's Definition of Smart Commons:**
 
 1. Smart Commons = dApp + PoV's governance\
+   Smart commons are dApps under the governance of DAism. Each of them is minted under [SC0](4.-governance-protocols-of-proof-of-value.md#decentralized-minting-protocol) with a specific dApp.\
    DAism's Proof of Value is the guarantee for effective governance of Smart Commons. The value of dApp is the foundation of Smart Commons. In DAism's well-constructed tokenomics, the exclusive valuation token becomes the value assessment indicator for dApps.
 2. Following the principles of governance minimization and credible neutrality, aiming for exceptionally high user-friendliness and stability.\
    Hardly any dApp will be isolated in the future. Each dApp can intelligently respond to interaction requests from other dApps and initiate interaction requests to other dApps based on its intelligence. To build a secure, stable, and highly efficient industry on the foundation of these distinctive features, each dApp clearly cannot be inconsistent, capricious, or undergo arbitrary changes. This is to maintain friendliness and stability towards users and external contracts.
