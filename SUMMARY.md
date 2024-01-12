@@ -4,7 +4,7 @@
 
 * [Preface](README.md)
 * [1. Introduction](whitepaper/abstract.md)
-* [3. The Composition of Proof-of-Value](whitepaper/3.-the-composition-of-proof-of-value.md)
-* [4. Governance Protocols of Proof-of-Value](whitepaper/4.-governance-protocols-of-proof-of-value.md)
-* [5. IADD Network](whitepaper/5.-iadd-network.md)
-* [6. Deverlopment Path of DAism](whitepaper/6.-deverlopment-path-of-daism.md)
+* [2. The Composition of Proof-of-Value](whitepaper/2.-the-composition-of-proof-of-value.md)
+* [3. Governance Protocols of Proof-of-Value](whitepaper/3.-governance-protocols-of-proof-of-value.md)
+* [4. IADD Network](whitepaper/4.-iadd-network.md)
+* [5. Deverlopment Path of DAism](whitepaper/5.-deverlopment-path-of-daism.md)
