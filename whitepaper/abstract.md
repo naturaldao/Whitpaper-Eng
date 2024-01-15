@@ -33,7 +33,7 @@ However, since the explosive growth of dApps in 2017, the industry has struggled
 
 In the spring of 2019, DAism started from the governance of decentralized exchange and, through years of technical exploration, finally developed Proof of Value (PoV). This innovation serves as a foundation for effective governance of tokenomics and dApps.
 
-## DAism's Definition of Smart Commons
+## DAism's Exploration of Smart Commons
 
 After a decade of exploration, blockchain has demonstrated the tremendous power of fundamental values such as decentralization, anti-censorship, trustless trust, and anonymity through the hardcore development of tokens and smart contracts. However, these achievements have mostly been confined to the public blockchain layer rather than the application layer.
 
@@ -51,7 +51,7 @@ Furthermore, since 2017, Ethereum's founder, Vitalik Buterin, has been continuou
 
 In a human being's society, we have to tolerate this bug but in a blockchain-driven world we are able to eliminate falsification and censorship.
 
-### 3.  Definition of Smart Commons
+### 3.  Governance Minimization
 
 On November 28 2020, Fred Ehrsam, co-founder of Coinbase and Paradigm, and Dan Robinson published "Governance Minimization" in which there're some key points relating to the topic we're discussing here:
 
@@ -67,7 +67,7 @@ On November 28 2020, Fred Ehrsam, co-founder of Coinbase and Paradigm, and Dan R
 
 Do we still remember a frequently discussed topic about Bitcoin's features in its early years---"Trustless"? Essentially only when a system or a dApp is credibly neutural can it be trustless! Therefore, no matter how decentralized a project's governance seems if it lacks credible neuturality the project can hardly survive in the long term in a blockchain ecosystem. The only way to credible neuturality is minimization of governance like what Bancor has accomplished by implementing a price-discovery mechanism with smart contracts and algorithms.
 
-**DAism's Definition of Smart Commons:**
+## **DAism's Definition of Smart Commons:**
 
 1. Smart Commons = dApp + PoV's governance\
    Smart commons are dApps under the governance of DAism. Each of them is minted under [SC0](3.-governance-protocols-of-proof-of-value.md#decentralized-minting-protocol) with a specific dApp.\
