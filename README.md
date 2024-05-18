@@ -9,7 +9,7 @@ description: This is DAism's Whitepaper V2.
 DAism inherits the governance principles from Bitcoin's proof-of-work and Ethereum's proof-of-stake. The innovative governance consensus introduced by DAism is known as Proof of Value (PoV).
 
 {% embed url="http://www.daism.io" %}
-DAism, the plateform
+DAism's Website
 {% endembed %}
 
 [NaturalDAO](https://app.gitbook.com/www.naturaldao.io) is the core development team behind DAism, with its initial members being Derek Zhou, Yuefei Tan, Elon Lee, Hua zhang, Queena Tong:
