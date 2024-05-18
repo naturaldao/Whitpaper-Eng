@@ -9,7 +9,7 @@ description: >-
 
 ## What is DAism?
 
-DAism is a public governance layer of tokenomics and dApp. And the unique governance consensus introduced by DAism is Proof of Value (PoV) .
+DAism is a public governance layer of dApps and tokenomics . And the unique governance consensus introduced by DAism is Proof of Value (PoV) .
 
 ## What is Proof of Value（PoV）?
 
@@ -22,6 +22,12 @@ Bitcoin's proof-of-work is driven by rewards, utilizing valuable labor to produc
 If you've developed a dApp and are willing to embrace DAism's Proof of Value governance, you can mint a Smart Commons on DAism with this dApp in just one minute. Subsequently, if your dApp proves its value, you can continuously receive rewards. Yes, the rewards provided by PoV are lifelong!
 
 The introduction of Proof of Value signifies that, like Bitcoin and Ethereum, DAism is committed to cultivating a governance model that goes beyond traditional paradigms, laying the groundwork for a vibrant and sustainable decentralized ecosystem.
+
+Here's the latest deck:
+
+{% embed url="https://gamma.app/docs/What-is-Proof-of-Value-y5jaiy0hj5bdqzb" %}
+A Detailed Introdution of PoV
+{% endembed %}
 
 ## Development of Blockchain governance technologies&#x20;
 
